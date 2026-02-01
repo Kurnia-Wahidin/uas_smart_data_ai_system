@@ -1,0 +1,39 @@
+#Query bagaimana cara mengusulkan kk masuk ke dtsen
+
+Mengusulkan Kartu Keluarga (KK) agar masuk ke Data Terpadu Kesejahteraan Sosial (DTKS/DTSEN) dapat dilakukan melalui dua cara: offline dengan mendatangi Kantor Desa/Kelurahan membawa KK & KTP asli, atau online via aplikasi Cek Bansos Kemensos di Play Store/App Store. Pastikan data KK valid dan melakukan pengisian data sosial ekonomi dengan jujur untuk verifikasi. 
+Langkah-langkah Mengusulkan KK ke DTKS/DTSEN:
+1. Melalui Kantor Desa/Kelurahan (Offline - Paling Direkomendasikan)
+Bawa Dokumen: KTP dan Kartu Keluarga (KK) asli dan fotokopi terbaru.
+Prosedur: Lapor ke petugas desa/kelurahan, sampaikan ingin mendaftarkan data keluarga ke DTKS.
+Isi Formulir: Isi formulir yang disediakan petugas dengan data yang jujur (pekerjaan, penghasilan, kondisi rumah).
+Verifikasi: Data akan melalui Musyawarah Desa/Kelurahan dan verifikasi lapangan.
+2. Melalui Aplikasi Cek Bansos (Online)
+Unduh Aplikasi: Instal aplikasi Cek Bansos Kemensos di Play Store atau App Store.
+Buat Akun: Buat akun menggunakan data KTP, KK, dan foto selfie dengan KTP.
+Fitur "Usul": Pilih menu "Usul" untuk mendaftarkan diri, keluarga, atau warga lain.
+Foto Rumah: Unggah foto kondisi rumah tampak depan dan dalam.
+3. Tips Agar Berhasil
+Pastikan NIK sudah terpadan dengan data Dukcapil.
+Gunakan nomor HP aktif untuk mempermudah verifikasi.
+Pantau status pengajuan secara berkala melalui situs Cek Bansos Kemensos.
+
+#Query : usulan masuk DTSEN
+
+Usulan masuk DTSEN (Data Tunggal Sosial dan Ekonomi Nasional) atau yang kini sering merujuk pada pembaruan DTKS (Data Terpadu Kesejahteraan Sosial) dapat dilakukan secara mandiri via aplikasi Cek Bansos atau melalui mekanisme desa (Musdes/Muskel). Warga Negara Indonesia (WNI) yang miskin atau rentan miskin dapat mendaftarkan diri, keluarga, atau warga sekitar dengan NIK dan KK yang valid. 
+Berikut adalah tahapan lengkap untuk usulan masuk DTSEN:
+1. Metode Online (Aplikasi Cek Bansos)
+Unduh & Daftar: Unduh aplikasi "Cek Bansos" resmi dari Kemensos di Google Play Store atau App Store. Buat akun dengan NIK, KK, dan swafoto memegang KTP.
+Login & Usul: Masuk ke akun, pilih menu "Daftar Usulan" -> "Tambah Usulan".
+Isi Data: Masukkan data diri sesuai KTP/KK dan kondisi sosial ekonomi yang sebenarnya.
+Foto: Unggah foto rumah tampak depan sebagai persyaratan.
+Kirim: Kirim usulan dan tunggu proses verifikasi. 
+2. Metode Offline (Desa/Kelurahan)
+Dokumen: Siapkan NIK dan KK, serta surat pengantar dari RT/RW jika diperlukan.
+Musdes/Muskel: Melalui mekanisme Musyawarah Desa/Kelurahan, perangkat desa akan melakukan verifikasi dan memasukkan data ke sistem SIKS-NG.
+Verifikasi: Petugas akan melakukan pengecekan lapangan. 
+3. Syarat & Ketentuan Penting
+Kepadanan Data: Data kependudukan (NIK dan KK) harus 100% padan dengan Dukcapil.
+Status Ekonomi: Khusus untuk rumah tangga miskin/rentan miskin (desil 1-5).
+Verifikasi: Usulan yang tidak diverifikasi pemerintah daerah dalam 30 hari kalender akan otomatis dianggap layak.
+Pembaruan: Data diperbarui secara berkala oleh Kemensos. 
+Setelah diusulkan, status usulan dapat dipantau melalui fitur "Cek Bansos" di aplikasi atau laman resmi. 

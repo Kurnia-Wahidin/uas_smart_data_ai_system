@@ -1,0 +1,14 @@
+DTSEN adalah singkatan dari Data Tunggal Sosial dan Ekonomi Nasional, sebuah basis data terpadu pemerintah Indonesia yang mengintegrasikan data sosial ekonomi seluruh penduduk (dari miskin hingga sejahtera, desil 1-10) dari berbagai instansi (Kemensos, BPS, Dukcapil, dll.) untuk menjadi acuan tunggal penyaluran bantuan sosial dan program pembangunan agar lebih tepat sasaran dan akurat. Sistem ini menggantikan sistem lama seperti DTKS (Data Terpadu Kesejahteraan Sosial) dan menjadi "satu pintu" data untuk berbagai kementerian dan lembaga. 
+Tujuan DTSEN:
+Integrasi Data: Menggabungkan data dari berbagai sumber menjadi satu database nasional yang lengkap dan terpadu.
+Ketepatan Sasaran: Memastikan bantuan sosial dan program pemerintah sampai kepada yang benar-benar membutuhkan.
+Satu Pintu Data: Menjadi rujukan tunggal bagi semua kementerian/lembaga untuk program pembangunan.
+Sistem Desil: Mengelompokkan masyarakat dari desil 1 (paling miskin) hingga desil 10 (paling sejahtera).
+Perbedaan dengan DTKS:
+DTKS: Dulu hanya mencakup 40% penduduk termiskin dan dikelola Kemensos.
+DTSEN: Mencakup seluruh penduduk Indonesia (desil 1-10) dan data lebih dinamis, terintegrasi dari banyak sumber.
+Bagaimana Cara Kerjanya (Secara Umum):
+Data dari berbagai sumber (Dukcapil, BPS, Kemensos, dll.) diintegrasikan.
+Data ini diperbarui secara berkala (misalnya, setiap 3 bulan).
+Kementerian/lembaga menggunakan data DTSEN ini untuk menentukan siapa yang berhak menerima bantuan.
+Dilakukan verifikasi lapangan (Ground Check) oleh pendamping PKH untuk memastikan keakuratan data.

@@ -1,0 +1,26 @@
+Berikut adalah rangkuman Petunjuk Teknis (Juknis) dan Standar Operasional Prosedur (SOP) untuk SIKS-NG (Sistem Informasi Kesejahteraan Sosial Next Generation) dan DTKS/DTSEN (Data Terpadu Kesejahteraan Sosial/Data Tunggal Sosial Ekonomi Nasional) berdasarkan peraturan Kemensos dan praktik terkini tahun 2024-2025.
+1. Juknis dan SOP Pengelolaan DTKS (Data Terpadu Kesejahteraan Sosial)
+DTKS kini diintegrasikan dengan data kependudukan (Dukcapil) untuk memastikan data By Name By Address (BNBA) akurat, tidak ganda, dan valid. 
+A. Alur Pengusulan/Perubahan Data (SOP):
+Musyawarah Desa/Kelurahan (Musdes/Muskel): Usulan baru, perbaikan data, atau penghapusan warga layak/tidak layak bansos wajib didasarkan pada Musdes/Muskel.
+Input Data (Operator Desa/Kecamatan): Operator menginput data hasil Muskel ke aplikasi SIKS-NG (Online/Offline).
+Verifikasi & Validasi (Verval): Dinas Sosial kabupaten/kota melakukan verifikasi, termasuk verval lapangan.
+Berita Acara & Pengesahan: Hasil verval dituangkan dalam Berita Acara dan disahkan oleh Kepala Desa/Lurah, lalu ditetapkan oleh Bupati/Walikota, dan dikirim ke Kemensos. 
+B. Kriteria Data Layak:
+Memiliki NIK, nama, dan alamat sesuai Dukcapil.
+Tidak ganda.
+Data lengkap (keterangan rumah tangga, ekonomi, dll). 
+2. Juknis dan SOP SIKS-NG (Sistem Informasi Kesejahteraan Sosial - Next Generation)
+SIKS-NG adalah aplikasi sistem internal yang digunakan untuk mengelola data DTKS, digunakan oleh petugas resmi (Desa, Kecamatan, Dinas Sosial). 
+A. Fitur Utama SIKS-NG:
+Pengusulan Data Baru: Menambah rumah tangga baru (KKS).
+Verifikasi/Ketidaklayakan: Menandai penerima bansos yang sudah tidak layak (meninggal, mampu, pindah).
+Menu Import Data: Penghubung data offline ke server pusat (online).
+Finalisasi: Tahap akhir pengusulan/perubahan oleh Desa/Kelurahan. 
+B. Panduan Teknis (Juknis) SIKS-NG:
+Akses: Login ke 6.kemensos.go.id/login menggunakan username/password resmi yang diberikan Pusdatin.
+Finalisasi Usulan:
+Buka menu "Usulan Baru".
+Centang NIK yang akan diusulkan.
+Unggah berita acara Musdes/Muskel (format PDF, maks 500 KB).
+Update Aplikasi: Selalu gunakan versi terbaru (misal: 2.1.0) untuk menghindari error. 
